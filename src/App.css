@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  width: 60%;
+  margin-left: 20%;
 }
 
 .App-logo {
@@ -26,6 +28,19 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.pokerBtn {
+  margin: 1%;
+}
+
+.basicPoints {
+  width: 30%;
+  margin: 0 30%;
+}
+
+.basicPoints button {
+  width: 20%;
 }
 
 @keyframes App-logo-spin {
